@@ -1,3 +1,6 @@
 [submodule "backend-integrador-pilartecno"]
 	path = backend-integrador-pilartecno
 	url = https://github.com/leomoreno99/backend-integrador-pilartecno
+[submodule "frontend-web-integrador-pilartecno"]
+	path = frontend-web-integrador-pilartecno
+	url = https://github.com/leomoreno99/frontend-web-integrador-pilartecno
